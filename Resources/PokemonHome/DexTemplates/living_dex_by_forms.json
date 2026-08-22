@@ -7956,15 +7956,6 @@
     "has_gender_difference": false
   },
   {
-    "species_slug": "greninja",
-    "form_slug": "battle-bond",
-    "natID": 658,
-    "primaryType": "water",
-    "secondaryType": "dark",
-    "slug": "greninja-battle-bond",
-    "has_gender_difference": false
-  },
-  {
     "species_slug": "bunnelby",
     "form_slug": "none",
     "natID": 659,
@@ -12228,15 +12219,6 @@
     "primaryType": "water",
     "secondaryType": null,
     "slug": "palafin-zero",
-    "has_gender_difference": false
-  },
-  {
-    "species_slug": "palafin",
-    "form_slug": "hero",
-    "natID": 964,
-    "primaryType": "water",
-    "secondaryType": null,
-    "slug": "palafin-hero",
     "has_gender_difference": false
   },
   {
