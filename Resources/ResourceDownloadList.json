@@ -6,15 +6,15 @@
       "CompressedBytes": 101891112,
       "DecompressedBytes": 231785960,
       "URL": "https://github.com/PokemonAutomation/Packages/raw/refs/heads/master/DownloadedResources/Tesseract.zip",
-      "SHA256": "f2b0663b0f973bdf3a76e69ee8e08b2a5a265851fb8fb3fb7a19f925e0c5bbfc"
+      "SHA256": "aeaa2b9ac209533d9901ade31ba85cffd04f64bcb21c52072395f4d1cb57f1cc"
     },
     {
-      "ResourceName" : "PokemonSV/AreaZero",
-      "Version" : 1,
-      "CompressedBytes" : 44276448,
-      "DecompressedBytes" : 53802335,
+      "ResourceName": "PokemonSV/AreaZero",
+      "Version": 1,
+      "CompressedBytes": 44276448,
+      "DecompressedBytes": 53802335,
       "URL": "https://github.com/PokemonAutomation/Packages/raw/refs/heads/master/DownloadedResources/AreaZero.zip",
-      "SHA256" : "7dd01d6b2d0d1ea8d6ac5e588520cdb94fad0322a7ebe1ce22e6b46c61eacb61"
+      "SHA256": "7dd01d6b2d0d1ea8d6ac5e588520cdb94fad0322a7ebe1ce22e6b46c61eacb61"
     }
   ]
 }
